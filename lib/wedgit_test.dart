@@ -1,8 +1,5 @@
 import 'package:flutter/widgets.dart';
 
-// void main() {
-//   runApp(const MyLearningJourneyApp());
-// }
 
 class MyLearningJourneyApp extends StatelessWidget {
   const MyLearningJourneyApp({super.key});
